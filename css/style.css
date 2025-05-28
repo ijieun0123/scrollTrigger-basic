@@ -104,12 +104,14 @@ body {
     font-family: "MonumentGrotesk", sans-serif;
     font-size: 0.85vw;
     font-weight: 400;
+    background: #111605;
 }
 .wrap {
     position: relative;
     margin: 0 auto;
     overflow: hidden;
     background: #111605;
+    margin-bottom: 500px;
 }
 img {
     filter: brightness(50%);
